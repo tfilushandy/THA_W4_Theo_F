@@ -1,0 +1,11 @@
+D:\CODE\NYOBA\THA 4\THA 4\bin\Debug\THA 4.exe.config
+D:\CODE\NYOBA\THA 4\THA 4\bin\Debug\THA 4.exe
+D:\CODE\NYOBA\THA 4\THA 4\bin\Debug\THA 4.pdb
+D:\CODE\NYOBA\THA 4\THA 4\obj\Debug\THA 4.csproj.AssemblyReference.cache
+D:\CODE\NYOBA\THA 4\THA 4\obj\Debug\THA 4.csproj.SuggestedBindingRedirects.cache
+D:\CODE\NYOBA\THA 4\THA 4\obj\Debug\THA_4.Form1.resources
+D:\CODE\NYOBA\THA 4\THA 4\obj\Debug\THA_4.Properties.Resources.resources
+D:\CODE\NYOBA\THA 4\THA 4\obj\Debug\THA 4.csproj.GenerateResource.cache
+D:\CODE\NYOBA\THA 4\THA 4\obj\Debug\THA 4.csproj.CoreCompileInputs.cache
+D:\CODE\NYOBA\THA 4\THA 4\obj\Debug\THA 4.exe
+D:\CODE\NYOBA\THA 4\THA 4\obj\Debug\THA 4.pdb
